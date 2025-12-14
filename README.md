@@ -50,10 +50,16 @@ https://finalto.xyz/9ziwH1
 
 ---
 
-## 五、注册入口
+## 五、优信云注册入口
 
 👉 **优信云官网注册入口**：  
 https://finalto.xyz/9ziwH1
+
+---
+
+## 优信云测速图
+
+<img src="https://raw.githubusercontent.com/jichangbaike/youxincloud/refs/heads/main/9355.png">
 
 ---
 
