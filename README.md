@@ -105,14 +105,14 @@
 
 > 解锁情况可能随节点与平台策略变化，请以实际使用体验为准。
 
----
-## 测试图
 <details>
-  <summary>点击展开查看图片</summary>
+  <summary>点击展开查看下载、流媒体与 AI 测试图</summary>
   <img src="https://raw.githubusercontent.com/jichangbaike/youxincloud/refs/heads/main/images/youxincloud-test-20260326.webp" alt="优信云 youxincloud 测试图" />
 </details>
 
-测试时间：2026-03-26，网络情况：联通 2Gbs
+>
+> 测试时间：2026-03-26，网络情况：联通 2Gbs
+>
 
 ---
 
